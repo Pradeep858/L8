@@ -11,7 +11,7 @@ int main()
 	}
 	else
 	{
-		printf("number is odd");
+		printf("number is not even");
 	}
 	return 0;
 }
