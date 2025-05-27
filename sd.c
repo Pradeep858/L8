@@ -7,7 +7,7 @@ int main()
 	scanf("%d",&a");
 	switch(a)
 	{
-		case 1: printf("Btech in CSE");
+		case 1: printf("btech in CSE");
 			break;
 		case 2: printf("btech in AIML");
 			break;
